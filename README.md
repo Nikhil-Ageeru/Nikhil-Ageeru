@@ -1,4 +1,4 @@
-<h2>👋 Hi, I’m Nikhil Ageeru (@Nikhil-Ageeru)</h2>
+<h2>👋 Hi, I’m Nikhil Ageeru </h2>
 <p><em>👀 I’m interested in technology, software development, and web development.</em></p>
 <p><em>🌱 I’m currently learning web development frameworks and front-end technologies.</em></p>
 <p><strong>💼 I have experience in full-stack development with proficiency in MERN stack technologies including JavaScript, Node.js, Express.js, React.js, and MongoDB.</strong></p>
